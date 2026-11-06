@@ -1,0 +1,11 @@
+{
+  "name": "mini-superagent",
+  "private": true,
+  "type": "module",
+  "description": "A minimal replica of the dsh-superagent core model, for chapter 11 of learn-super-agent",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node main.ts",
+    "test": "node --test"
+  }
+}

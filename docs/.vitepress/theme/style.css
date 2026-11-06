@@ -1,0 +1,30 @@
+.upstream-banner {
+  margin: 0 0 24px;
+  padding: 10px 14px;
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 4px;
+  background: var(--vp-c-bg-soft);
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+
+.doc-ref-en {
+  margin-left: 4px;
+  padding: 0 4px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 3px;
+  font-size: 11px;
+  vertical-align: 1px;
+  text-decoration: none !important;
+}
+
+.src-link code {
+  color: var(--vp-c-brand-1);
+}
+
+.VPHero .image-src {
+  width: 320px;
+  max-width: 80%;
+  height: auto;
+}

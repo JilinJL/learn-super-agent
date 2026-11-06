@@ -1,0 +1,19 @@
+{
+  "name": "learn-super-agent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "拆解、解释、教学 DeepSeek dsh-superagent-prototype 的设计（非官方学习项目）",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-upstream.mjs",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "mermaid": "^11.4.0",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
