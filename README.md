@@ -2,7 +2,7 @@
 
 拆解、解释、教学 [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 的设计。非官方学习项目，与 DeepSeek 无关联。
 
-**预期发布地址（待上线）：** https://jilinjl.github.io/learn-super-agent/
+[Learn Super Agent](https://jilinjl.github.io/learn-super-agent/)
 
 ## 内容
 
